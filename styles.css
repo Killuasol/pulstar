@@ -25,7 +25,6 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: aquamarine;
 }
 
 .navigation {
@@ -45,7 +44,7 @@ a {
     margin-right: 25px;
 }
 
-.navigation_text {
+.navigation__text {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
